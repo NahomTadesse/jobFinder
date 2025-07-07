@@ -107,7 +107,7 @@ export default function Login() {
             <Divider sx={{ my: 3 }} />
             
             <Typography variant="body1" sx={{ textAlign: 'center' }}>
-              Don't have an account?{' '}
+              {"Don't "}have an account?{' '}
               <Link href="/register" passHref>
                 <Typography component="span" sx={{ color: 'primary.main', fontWeight: 'bold', cursor: 'pointer' }}>
                   Sign up

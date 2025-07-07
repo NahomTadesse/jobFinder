@@ -55,7 +55,7 @@ export default function Contact() {
             Contact Us
           </Typography>
           <Typography variant="h6" sx={{ mb: 4, textAlign: 'center', color: 'text.secondary' }}>
-            We'd love to hear from you
+            {"We'd"} love to hear from you
           </Typography>
         </Container>
       </Box>
@@ -69,7 +69,7 @@ export default function Contact() {
             
             {submitted && (
               <Alert severity="success" sx={{ mb: 3 }}>
-                Thank you for your message! We'll get back to you soon.
+                Thank you for your message!{"We'll"}get back to you soon.
               </Alert>
             )}
             

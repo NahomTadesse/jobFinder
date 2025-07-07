@@ -56,14 +56,14 @@ export default function About() {
             Our mission is to bridge the gap between talented professionals and companies looking to hire the best candidates.
           </Typography>
           <Typography variant="body1" paragraph>
-            Founded in 2025, we've helped over 1000 people find their dream jobs and assisted thousands of companies in 
+            Founded in 2025, we have helped over 1000 people find their dream jobs and assisted thousands of companies in 
             building their dream teams.
           </Typography>
         </Box>
 
         <Box sx={{ mb: 8 }}>
           <Typography variant="h4" sx={{ fontWeight: 'bold', mb: 3 }}>
-            How We're Different
+            How We are Different
           </Typography>
           <Grid container spacing={4}>
             <Grid item xs={12} md={4}>
@@ -87,7 +87,7 @@ export default function About() {
                 Career Support
               </Typography>
               <Typography variant="body1">
-                We don't just help you find a job - we provide resources to help you grow your career long-term.
+                We dont just help you find a job - we provide resources to help you grow your career long-term.
               </Typography>
             </Grid>
           </Grid>
